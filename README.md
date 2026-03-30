@@ -141,19 +141,3 @@ Example idea:
 - Strong as a portfolio, scholarship, or CV project
 - Built in a way that can be expanded into a smarter recommendation system later
 
-## Future Improvements
-
-- Add more career paths
-- Add file export for results
-- Add user history or saved profiles
-- Connect to a real dataset
-- Upgrade the scoring system with machine learning
-- Add web and mobile versions
-
-## CV-Ready Description
-
-Developed `FuturePath AI`, a single-file Python desktop application that recommends suitable career paths based on students' skills, interests, and academic background. Built an interactive `tkinter` interface and an explainable recommendation engine that returns top career matches with personalized reasons and learning roadmaps.
-
-## Author
-
-Built as an education-focused career guidance project in Python, designed to be simple to use, easy to present, and strong for portfolio and scholarship applications.
