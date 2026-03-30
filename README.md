@@ -141,3 +141,10 @@ Example idea:
 - Strong as a portfolio, scholarship, or CV project
 - Built in a way that can be expanded into a smarter recommendation system later
 
+## 👨‍💻 Author
+
+**Beshoy**  
+ Python Developer | Passionate about building practical tools  
+📌 [GitHub Profile](https://github.com/BeshoyHanna-BH)
+
+
